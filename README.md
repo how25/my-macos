@@ -1,1 +1,1 @@
-# my-macos
+# my-macos-configuration
